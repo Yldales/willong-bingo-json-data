@@ -1,0 +1,47 @@
+{
+    "source": {
+        "name": "WRONG FLOOR",
+        "link": "https://youtu.be/q1TwyXgrb20",
+        "date": "2022-11-07"
+    },
+    "bingos": [
+        {
+            "type": "1.0",
+            "game": {
+                "name": "WRONG FLOOR",
+                "editor": "N4bA",
+                "link": "https://n4ba.itch.io/wrong-floor"
+            },
+            "cards": [
+                {
+                    "name": "Histoire racontée qu'avec des notes",
+                    "timestamps": []
+                },
+                {
+                    "name": "Lampe torche",
+                    "timestamps": []
+                },
+                {
+                    "name": "Huit clos sans fenêtre",
+                    "timestamps": []
+                },
+                {
+                    "name": "Pas de sauvegarde",
+                    "timestamps": []
+                },
+                {
+                    "name": "Monstre qui passe au loin",
+                    "timestamps": []
+                },
+                {
+                    "name": "\"Made with Unity\"",
+                    "timestamps": []
+                },
+                {
+                    "name": "Ne se joue qu'en QWERTY",
+                    "timestamps": []
+                }
+            ]
+        }
+    ]
+}
